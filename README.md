@@ -1,4 +1,5 @@
 # AI
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf
 
 https://www.fast.ai/ -- Free courses on AI
 
